@@ -1,4 +1,4 @@
-**Note: this project has moved to [adzerk/splint](https://github.com/adzerk/splint)**
+**Note: this project has moved to [adzerk-oss/splint](https://github.com/adzerk-oss/splint)**
 
 # mori
 
